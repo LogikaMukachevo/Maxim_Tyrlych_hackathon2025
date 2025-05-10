@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+    background-color: cyan;
+    border-radius: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    background-color: darkgreen;
+    border: 10px solid navy;
+    border-radius: 30px;
+}
+
+p{
+    text-align: center;
+    color: darkgreen;
+    border: 2px dashed navy;
+    background-color: cyan;
+}
+
+header{
+    background-color: rgb(255, 251, 0);
+}
+
+body {
+    background-color: rgb(102, 255, 0);
+}
+
+main{
+    background-color: rgb(255, 0, 0);
+}
+
+footer{
+    background-color: rgb(121, 22, 148);
+}
+
+.rt {
+    width: 60px;
+    height: 60px;
+}
+
+a {
+    color: black;
+    border: 3px solid navy;
+    border-radius: 30px;
+    background-color: red;
+}
+
+div {
+    color: navy;
+    border: 5px dotted lightgray;
+    background-color: aqua;
+}
+
+.xu {
+    color: rgb(107, 121, 2);
+}
+
+.nfy {
+    color: darkred;
+}
