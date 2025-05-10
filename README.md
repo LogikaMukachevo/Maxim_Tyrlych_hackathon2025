@@ -1,0 +1,1 @@
+# Maxim_Tyrlych_hackathon2025
